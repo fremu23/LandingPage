@@ -1,6 +1,12 @@
-.navbar{
-    margin-left:14%;
-    margin-right:14%;
+body{
+    background-color: #1F2937;
+    color: white;
+}
+
+/* HEADER */
+.head-section{
+    padding-left:14%;
+    padding-right:14%;
 }
 
 .header{
@@ -11,9 +17,13 @@
 
 .header-logo{
     margin-right: auto;
+    font: roboto;
 }
 
 .header-links{
     display: flex;
     gap:30px;
 }
+
+
+/* ------- */
