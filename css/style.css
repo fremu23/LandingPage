@@ -1,0 +1,19 @@
+.navbar{
+    margin-left:14%;
+    margin-right:14%;
+}
+
+.header{
+    display: flex;
+    list-style-type: none;
+    padding:0;
+}
+
+.header-logo{
+    margin-right: auto;
+}
+
+.header-links{
+    display: flex;
+    gap:30px;
+}
